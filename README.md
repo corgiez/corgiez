@@ -2,6 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=幽玄%20&color=7DBF65&style=plastic)
 
+<sub>Known for remaking my github profile A LOT .. but hey, I'm still corgiez </sub>
 
 <img src="https://media1.tenor.com/m/eh_Ex870tLMAAAAd/qiuyuan-qiuyuan-ult.gif" alt="lol" width="450">
 
