@@ -2,27 +2,35 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=snowdrops%20&color=B4C3E0&style=square)
+![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=flames%20&color=D66142&style=plastic)
 
 <sub>Known for remaking my github profile A LOT .. but hey, I'm still corgiez </sub>
 
-<img src="https://github.com/user-attachments/assets/bae97b3d-0ff1-4928-849a-eecfd6f83fec" width="450">
+<img src="https://i.pinimg.com/originals/c3/9b/50/c39b50952af49f25a809a409caf7ea71.gif" width="500">
 
-⸜(｡˃ ᵕ ˂)⸝♡
-
-<img src="https://64.media.tumblr.com/b22d977724ba25c5e33e35f8a76ade1b/57163b76850fbc95-df/s1280x1920/483965920c1708e75cf12e329573e0cebe0a518f.pnj" width="450">
+'Pyramids - Frank Ocean'
 
 
-$\color{#F2F7FB}{\textsf{I }}\color{#DCEAF6}{\textsf{will }}\color{#C3DAEE}{\textsf{never }}\color{#A9C9E5}{\textsf{be }}\color{#8FB8DB}{\textsf{perfect }}\color{#75A7D1}{\textsf{but }}\color{#5B95C7}{\textsf{I'll }}\color{#5B95C7}{\textsf{always }}\color{#5B95C7}{\textsf{be }}\color{#5B95C7}{\textsf{real}}$
+────────────────────────────────────
+
+↻ ◁  ||  ▷  ↺ 
 
 
-[![Visit](https://img.shields.io/badge/-card-F2F7FB?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-DCEAF6?style=flat-plastic)](https://rentry.co/cutecorgie) [![Visit](https://img.shields.io/badge/-guns-A9C9E5?style=flat-plastic)](https://guns.lol/corgiez) [![Visit](https://img.shields.io/badge/-ponies-75A7D1?style=flat-plastic)](https://rentry.co/corgiezponies)
+<img src="https://64.media.tumblr.com/f61122fad226e55f0cbc23ea7cf14bae/d083df8da3513e0a-96/s2048x3072/5ebfb2d9a1d1d32e702405cbe9e1da5650fb4d31.pnj" width="400">
 
 
-<img src="https://64.media.tumblr.com/66871165180b90fb3e079bd9c5f48df3/efa59677884e5c34-03/s100x200/c770238f3e8a4ad2c130823b56d815d430379699.pnj" width="77">
-<img src="https://64.media.tumblr.com/3eb31d6aa1fc9f756ef666be2d875c60/8e768faae6e164f8-71/s100x200/ec6aef38232f5288f03fdf13cdc577042f2fde2e.gifv" width="77">
-<img src="https://64.media.tumblr.com/293b001115140c761d9bec6cfe95b95c/8b7c01b0a3108e42-16/s100x200/8b25a1f52437e662bc1b36ac148cfb97deec2ac2.pnj" width="77">
+
+
+$\color{#FFB347}{\textsf{I }}\color{#FFA233}{\textsf{will }}\color{#FF8C1A}{\textsf{never }}\color{#FF751A}{\textsf{be }}\color{#FF5C1A}{\textsf{perfect }}\color{#FF471A}{\textsf{but }}\color{#FF331A}{\textsf{I'll }}\color{#E62E17}{\textsf{always }}\color{#CC2914}{\textsf{be }}\color{#B2220F}{\textsf{real}}$
+
+
+[![Visit](https://img.shields.io/badge/-card-DBB39C?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-D4937D?style=flat-plastic)](https://rentry.co/cutecorgie) [![Visit](https://img.shields.io/badge/-guns-D47066?style=flat-plastic)](https://guns.lol/corgiez) [![Visit](https://img.shields.io/badge/-ponies-CC564B?style=flat-plastic)](https://rentry.co/corgiezponies)
+
+
+<img src="https://64.media.tumblr.com/9bbe0d48e1329a2ee2f501f7f0344381/1af8c5d18d8caef8-83/s540x810/5569de13c68013c073d56b5da828a3c4362383c0.pnj" width="77">
+<img src="https://64.media.tumblr.com/c6dd37a2854cd389edc902a5c53eb179/af02d2bb35b3facb-fe/s2048x3072/e857d12b7a209758c942d7fcc5537213fcf4d26e.jpg" width="77">
+<img src="https://64.media.tumblr.com/0af92dfc52b58dda9b34c86bb3642ab3/1b3b3ead126e4719-32/s1280x1920/49b3a800baff32e16f4a6de98e10e953eaba4946.jpg" width="77">
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fjxxeuyl2fhkgy5lrbidri26fa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=false&bar_color=BDDAF2)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fjxxeuyl2fhkgy5lrbidri26fa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=false&bar_color=C75530)](https://github.com/kittinan/spotify-github-profile)
