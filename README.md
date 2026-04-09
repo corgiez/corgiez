@@ -13,7 +13,7 @@
 <img src="https://64.media.tumblr.com/b22d977724ba25c5e33e35f8a76ade1b/57163b76850fbc95-df/s1280x1920/483965920c1708e75cf12e329573e0cebe0a518f.pnj" width="450">
 
 
-$\color{#F2F7FB}{\textsf{open }}\color{#DCEAF6}{\textsf{to }}\color{#C3DAEE}{\textsf{c+h }}\color{#A9C9E5}{\textsf{. int }}\color{#8FB8DB}{\textsf{freely }}\color{#75A7D1}{\textsf{with }}\color{#5B95C7}{\textsf{me}}$
+$\color{#F2F7FB}{\textsf{I }}\color{#DCEAF6}{\textsf{will }}\color{#C3DAEE}{\textsf{never }}\color{#A9C9E5}{\textsf{be }}\color{#8FB8DB}{\textsf{perfect }}\color{#75A7D1}{\textsf{but }}\color{#5B95C7}{\textsf{I'll }}\color{#5B95C7}{\textsf{always }}\color{#5B95C7}{\textsf{be }}\color{#5B95C7}{\textsf{real}}$
 
 
 [![Visit](https://img.shields.io/badge/-card-F2F7FB?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-DCEAF6?style=flat-plastic)](https://rentry.co/cutecorgie) [![Visit](https://img.shields.io/badge/-guns-A9C9E5?style=flat-plastic)](https://guns.lol/corgiez) [![Visit](https://img.shields.io/badge/-ponies-75A7D1?style=flat-plastic)](https://rentry.co/corgiezponies)
