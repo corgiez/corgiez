@@ -24,7 +24,7 @@
 $\color{#FFB347}{\textsf{I }}\color{#FFA233}{\textsf{will }}\color{#FF8C1A}{\textsf{never }}\color{#FF751A}{\textsf{be }}\color{#FF5C1A}{\textsf{perfect }}\color{#FF471A}{\textsf{but }}\color{#FF331A}{\textsf{I'll }}\color{#E62E17}{\textsf{always }}\color{#CC2914}{\textsf{be }}\color{#B2220F}{\textsf{real}}$
 
 
-[![Visit](https://img.shields.io/badge/-card-DBB39C?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-D4937D?style=flat-plastic)](https://rentry.co/cutecorgie) [![Visit](https://img.shields.io/badge/-guns-D47066?style=flat-plastic)](https://guns.lol/corgiez) [![Visit](https://img.shields.io/badge/-ponies-CC564B?style=flat-plastic)](https://rentry.co/corgiezponies)
+[![Visit](https://img.shields.io/badge/-card-DBB39C?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-D4937D?style=flat-plastic)](https://rentry.co/corgieint) [![Visit](https://img.shields.io/badge/-guns-D47066?style=flat-plastic)](https://guns.lol/corgiez) [![Visit](https://img.shields.io/badge/-ponies-CC564B?style=flat-plastic)](https://rentry.co/corgiezponies)
 
 
 <img src="https://64.media.tumblr.com/9bbe0d48e1329a2ee2f501f7f0344381/1af8c5d18d8caef8-83/s540x810/5569de13c68013c073d56b5da828a3c4362383c0.pnj" width="77">
