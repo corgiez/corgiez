@@ -7,7 +7,7 @@
 <img src="https://flagpedia.net/data/flags/emoji/apple/160x160/ph.png" width="30">  <img src="https://flagpedia.net/data/flags/emoji/facebook/256x256/de.png" width="30"> 
 
 
-<sub>Known for remaking my github profile A LOT .. but hey, I'm still corgiez </sub>
+<sub>rmking github profile a lot . corgiez . kazehaya kin </sub>
 
 <img src="https://i.pinimg.com/originals/3b/71/24/3b71244d6c2c73e1efebaa9c0b8e3c77.gif" width="500">
 
