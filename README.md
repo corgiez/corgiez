@@ -39,5 +39,6 @@ $\color{#F6E7C9}{\textsf{The }}\color{#F1DDBA}{\textsf{longer }}\color{#EBCFA6}{
 
 ---
 
+![pacman graph](https://raw.githubusercontent.com/mualanis/mualanis/output/pacman-dark.svg)
 
 
